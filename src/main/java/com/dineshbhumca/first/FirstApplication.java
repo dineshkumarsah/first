@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class FirstApplication {
 
 	public static void main(String[] args) {
+		System.out.println("dinesh");
 		SpringApplication.run(FirstApplication.class, args);
 	}
-
 }
